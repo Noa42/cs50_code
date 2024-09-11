@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Because their best case scenario (sorted files) last way less time to run that the worst case scenario (reversed files). This corresponds with their difference between O and omega.
+
+sort2 uses: Merge sort
+
+How do you know?: Because Both their worst and best case scenarios (sorted and reversed files) last the same time to run and both are very fast. This correspond with their O and omega being the same.
+
+sort3 uses: Selection sort
+
+How do you know?: Becaus their worst and best case scenarios (sorted and reversed files) last the same time to run but both are quite slow. This correspond with their O and omega being the same but being less efficient than the merge sorting method.

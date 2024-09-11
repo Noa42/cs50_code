@@ -1,0 +1,8 @@
+I used the following query: SELECT AVG(energy), AVG(valence), AVG(danceability) FROM songs;
+In this way I can get the average value of energy, valence and danceability columns from the songs table.
+The results are the following:
+-Average energy: 0.65906
+-Average valence: 0.484443
+-Average danceability: 0.71646
+So I would say 2018's aura is mery energetic and makes you wanna dance.
+As an alternative I would calculate the aura from different playlists so teh resultas can be more consistent accordint to the listeners's moods.
